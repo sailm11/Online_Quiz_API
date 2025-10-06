@@ -2,10 +2,10 @@ Online Quiz API
 
 A Spring Boot REST API for creating and taking quizzes online. Supports single-choice, multiple-choice, and text-based questions with automated evaluation.
 
-```bash
+
       -------------------------------------------------------------------------------------------------------------------
 
-```
+      
 
 Project Overview
 
