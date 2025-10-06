@@ -2,8 +2,10 @@ Online Quiz API
 
 A Spring Boot REST API for creating and taking quizzes online. Supports single-choice, multiple-choice, and text-based questions with automated evaluation.
 
-
+```bash
       -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+```
 
 Project Overview
 
@@ -79,8 +81,10 @@ Keyword-based evaluation accuracy
 Error handling for invalid submissions
 
 
+
 🧩 Project Structure
 
+```bash 
 src/main/java/com/quizzy/v1/
 ├─ controller
 │   └─ QuizController.java
@@ -100,3 +104,5 @@ src/main/java/com/quizzy/v1/
     │   └─ AnswerSubmissionDto.java
     └─ response
         └─ QuizResultDto.java
+
+```
