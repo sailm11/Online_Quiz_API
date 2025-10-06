@@ -7,7 +7,7 @@ A Spring Boot REST API for creating and taking quizzes online. Supports single-c
 
       
 
-Project Overview
+## 🚀 Project Overview
 
 The Online Quiz API allows:
 
@@ -23,7 +23,7 @@ Retrieving all available quizzes with questions (without exposing correct answer
 
 
 
-Technologies Used
+## 🛠️ Technologies Used
 
 Java 17
 
